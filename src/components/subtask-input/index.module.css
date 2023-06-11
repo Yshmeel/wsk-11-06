@@ -1,0 +1,16 @@
+.root {
+    padding: 10px 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.hint {
+    color: #eee;
+    font-size: 14px;
+}

@@ -1,0 +1,27 @@
+.root {
+    background: #171717;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding-top: 20px;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tabs {
+
+}
+
+.filter {
+    margin-top: -0px;
+}
+
+.filter input {
+    border: none;
+    padding: 15px 20px;
+    width: 100%;
+}
